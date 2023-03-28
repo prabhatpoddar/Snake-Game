@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: greenyellow;
+}
+.scoreContainer {
+  display: flex;
+  gap: 80px;
+  justify-content: center;
+}
