@@ -16,4 +16,4 @@ The Snake game built using HTML, CSS, JavaScript and Canvas is a classic arcade-
 
 
 #### Project Look Like 
-![image](https://user-images.githubusercontent.com/98205449/227981634-2dacb439-4a7f-4fa3-a3ad-ab4bee6103ab.png)
+![image](https://user-images.githubusercontent.com/98205449/228275039-29c15fe5-cd21-4f7a-bba9-6d1a9c510ce9.png)
